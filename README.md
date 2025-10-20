@@ -15,6 +15,7 @@
 
 This project demonstrates a **complete end to end CI/CD pipeline** using **Jenkins**, **Ansible**, **Docker**, and **AWS EKS**.  
 It covers every stage  from static code checks and Docker image builds, to container deployment on EKS.
+  ![Full Pipeline ](https://github.com/AliKhaledElbaqly/Understandthecycle-1/blob/master/Project1%20(3).gif?raw=true)
 
 ---
 
@@ -417,9 +418,11 @@ sudo systemctl status docker
 
 
 * **Full Pipeline:**
+
   ![Full Pipeline Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThldnI2ZnFxeXZheGlydjM0OTFqOW92NDl1dzh2cTd6Z3Zrdzc2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYNlxNvC6a5iHDgyJz/giphy.gif)
 
 * **Docker Host Deployment:**
+
   ![Host Deployment Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZvOHNpaXgya2ZjcWlqdHByb2pmaW9vODJ2dzU5a3hia2h2MDEyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PyYtdcX1Hay2mnBnx/giphy.gif)
 
 ---
